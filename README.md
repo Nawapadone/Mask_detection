@@ -9,7 +9,10 @@
 > The method that we use to detect is divided into 4 parts, which we will start by detecting the structure of the object (face frame). When we meet, we will detect the eyes to check for that is the face and then we will detect the nose and mouth. If detected, it means that you are not wearing a mask.
 > However, in actual use, there are variables regarding the suitability of image size. A part of the accuracy depends on the frame rate for image transmission to be processed from the CCTV. if sending a picture data that is too often will cause RAM to work harder.
 
-![Image](https://photos.google.com/u/1/photo/AF1QipMFKmtNq2GpYY7dXnb8aZJ8gNgB0QUuc6tW7ZMX)
+<p align="center">
+  Screenshot of the python program that used the model
+to classify mask detection from real-time webcam images.
+</p>
 
 
 
