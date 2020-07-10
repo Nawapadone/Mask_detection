@@ -1,5 +1,5 @@
 # Mask detection when going to public places
-* The outbreak of COVID-19 causes measures to prevent transmission from person to person. everyone must stay in the house but because people who must travel to work and study, this type of work habit can adversely affect the spread of the virus. The government has measures to protect everyone by wearing a mask whenever in public.
+> The outbreak of COVID-19 causes measures to prevent transmission from person to person. everyone must stay in the house but because people who must travel to work and study, this type of work habit can adversely affect the spread of the virus. The government has measures to protect everyone by wearing a mask whenever in public.
 #### Because in public places there is an access inspection using CCTV This project aims to use Machine Learning to classify the Facial recognition from the face of the user to check whether the person is wearing mask on face or not.
 
 ## Model Training
