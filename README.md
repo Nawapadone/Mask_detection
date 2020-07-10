@@ -15,7 +15,7 @@
 ### Tools and Libraries used 
 - Python 3 
 - OpenCV, Matplotlib and NumPy
-[Attachments]
+### Attachments
 - Python code (to use with webcam)
 https://towardsdatascience.com/object-detection-with-haar-cascades-in-python-ad9e70ed50aa
 - Training on notebook
