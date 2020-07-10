@@ -9,10 +9,18 @@
 > The method that we use to detect is divided into 4 parts, which we will start by detecting the structure of the object (face frame). When we meet, we will detect the eyes to check for that is the face and then we will detect the nose and mouth. If detected, it means that you are not wearing a mask.
 > However, in actual use, there are variables regarding the suitability of image size. A part of the accuracy depends on the frame rate for image transmission to be processed from the CCTV. if sending a picture data that is too often will cause RAM to work harder.
 
-<p align="center">
-  Screenshot of the python program that used the model
-to classify mask detection from real-time webcam images.
-</p>
+## Techniques
+- Image Object Detection (for Facial Recognition) 
+- Haar-cascade Detection (for eye, nose and mouth) 
+### Tools and Libraries used 
+- Python 3 
+- OpenCV, Matplotlib and NumPy
+[Attachments]
+- Python code (to use with webcam)
+https://towardsdatascience.com/object-detection-with-haar-cascades-in-python-ad9e70ed50aa
+- Training on notebook
+https://medium.com/@toshyraf/train-dataset-to-xml-file-for-cascade-classifier-opencv-43a692b74bfe
+
 
 
 
